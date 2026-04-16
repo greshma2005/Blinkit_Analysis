@@ -22,6 +22,9 @@
 - Improve customer satisfaction using rating analysis
 - Support data-driven decisions for inventory and business growth
 
+## Dataset Used:
+
+
 ## 📊 Key Performance Indicators (KPIs) 
 - 💰 Total Revenue Generated: ₹ 12,01,681+
 - Achieved over ₹12 Lakhs in sales, indicating strong overall business performance and consistent demand across product categories.
@@ -30,7 +33,7 @@
 - 📦 Product Diversity: 1,559 Items Sold
 - Wide product range contributing to sales, showcasing effective inventory management and category coverage.
 -⭐ Customer Satisfaction Score: 3.97 / 5
-Close to a 4-star rating, indicating positive customer experience and product acceptance.
+- Close to a 4-star rating, indicating positive customer experience and product acceptance.
 
 ## 🔥 Key Business Insights
 - 📊 Generated over ₹12+ Lakhs in total revenue, indicating strong sales performance
