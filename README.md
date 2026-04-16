@@ -23,7 +23,7 @@
 - Support data-driven decisions for inventory and business growth
 
 ## Dataset Used:
-
+- <a href="https://github.com/greshma2005/Blinkit_Analysis/blob/main/blinkit_data.csv">Dataset</a>
 
 ## 📊 Key Performance Indicators (KPIs) 
 - 💰 Total Revenue Generated: ₹ 12,01,681+
@@ -43,8 +43,15 @@
 - 🏬 Outlet characteristics like size and location significantly impact sales
 - 🥗 Product attributes (like fat content) influence purchasing patterns
 
+## Dashboard Interaction
+- <a href="https://github.com/greshma2005/Blinkit_Analysis/blob/main/blinkit_dashboard.png"></a>
+
 ## 🛠️ Tools & Technologies
 - Power BI – Interactive dashboard & visualization
 - Excel / CSV – Data source
 - Power Query – Data cleaning & transformation
 - DAX – KPI calculations
+
+## Dashboard
+<img width="1908" height="1096" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/4e4047a6-118c-43ef-a7f4-8fa853e13a42" />
+
