@@ -44,7 +44,7 @@
 - 🥗 Product attributes (like fat content) influence purchasing patterns
 
 ## Dashboard Interaction
-- <a href="https://github.com/greshma2005/Blinkit_Analysis/blob/main/blinkit_dashboard.png"></a>
+- <a href="https://github.com/greshma2005/Blinkit_Analysis/blob/main/blinkit_dashboard.png">View Dashboard</a>
 
 ## 🛠️ Tools & Technologies
 - Power BI – Interactive dashboard & visualization
