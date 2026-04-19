@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analysis | Power BI Project
+# 🛒 Blinkit Sales Analysis Using SQL+Python+PowerBI
 ## 🚀 Project Overview
 
 - This project delivers an end-to-end data analytics solution for Blinkit by transforming raw retail data into actionable business insights using Power BI.
